@@ -1,9 +1,14 @@
 # FILE-INTEGRITY-CHECKER
 Company : CODTECH IT SOLUTIONS
+
 Name : LochanMeher Khaspa
+
 Intern ID :CT04DF930
+
 Domain : Cyber Security & Ethical Hacking
+
 Duration : 4 weeks
+
 Mentor :  Neela Santhosh Kumar
 
 ## Description:
